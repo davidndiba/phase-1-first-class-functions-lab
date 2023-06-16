@@ -20,7 +20,7 @@ functions.
 
 Using the tests to guide you, create the following deliverables:
 
-- `returnFirstTwoDrivers()` — Declare the variable `returnFirstTwoDrivers` with
+- `returnFirstTwoDrivers()` — Declare the variable with
   `const` and assign an anonymous function to it. The assigned function should
   accept an array of drivers as an argument and return the **first** two drivers
   in the array.
